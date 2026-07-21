@@ -5,8 +5,8 @@ while True:
     Acc_no = int(input("please enter your account number:"))
     ph_n0 = int(input("please enter your phone number:"))
     correct_pin = 6304
-    acc_no = 42024167245
-    Ph_no = 7989461396
+    acc_no = 454838394933
+    Ph_no = 5839384834
     Balance = 20000
     user_pin = int(input())
     if acc_no == Acc_no:

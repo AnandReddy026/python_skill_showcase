@@ -4,7 +4,7 @@ while True:
     print("Please insert your card for processes")
     Acc_no = int(input("please enter your account number:"))
     ph_n0 = int(input("please enter your phone number:"))
-    correct_pin = 6304
+    correct_pin = 2222
     acc_no = 454838394933
     Ph_no = 5839384834
     Balance = 20000
